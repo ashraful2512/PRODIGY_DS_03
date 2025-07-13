@@ -64,4 +64,4 @@ Due to GitHub's file size limits, only a **sample** of the full dataset (2000 en
 ## 🔖 License
 
 This project is for educational use under the Prodigy InfoTech Internship.  
-Data is publicly available from [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
+Data is publicly available from [NYC Open Data](https://opendata.cityofnewyork.us/)
